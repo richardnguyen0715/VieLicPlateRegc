@@ -1,5 +1,5 @@
 # VieLicPlateRegc
-Vietnamese Vehicle License Plate Recognition
+Vehicle License Plate Recognition
 
 ---
 
